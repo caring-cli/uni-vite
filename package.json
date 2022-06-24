@@ -1,6 +1,6 @@
 {
-  "name": "uni-preset-vue",
-  "version": "0.0.0",
+  "name": "uni-vite",
+  "version": "0.0.1",
   "scripts": {
     "serve": "npm run dev:h5",
     "dev:app": "uni -p app",
