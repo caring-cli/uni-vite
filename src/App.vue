@@ -1,3 +1,10 @@
+<!--
+ * @Author: Wanko
+ * @Date: 2022-03-17 19:08:32
+ * @LastEditors: Wanko
+ * @LastEditTime: 2024-04-11 10:25:53
+ * @Description: 
+-->
 <script>
 export default {
   onLaunch () {
@@ -13,7 +20,5 @@ export default {
 </script>
 
 <style lang="scss">
-page {
-  background: #f8f8f8;
-}
+
 </style>
